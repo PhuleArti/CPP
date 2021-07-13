@@ -9,7 +9,7 @@ using namespace std;
 class Even
 {
      public:
-                int no1;
+             int no1;
                 
       public:
       void PrintEven(int no1)
