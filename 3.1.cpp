@@ -14,16 +14,16 @@ class Even
       public:
       void PrintEven(int no1)
       {
-            int i=0;
+           int i=0;
             
-            if(no1<= 0)
-            {
-                  return;
-            }
+           if(no1<= 0)
+           {
+               return;
+           }
             
            for(i=1; i<=no1; i++)
            {
-                     cout<<i*2<<"\t";
+               cout<<i*2<<"\t";
            }
       }           
 };
