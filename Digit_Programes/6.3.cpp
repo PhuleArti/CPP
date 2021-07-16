@@ -14,17 +14,21 @@ class Count
       {
            int Cnt=0;
            int Digit=0;
+           
            if(no1<0)
            {
                 no1=-no1;
            }
+           
            while(no1!=0)
            {
                  Digit=no1%10;
+                
                  if(Digit==2)
                  {
                        Cnt++;
                  }
+                
                  no1=no1/10;
            }
            return Cnt;
