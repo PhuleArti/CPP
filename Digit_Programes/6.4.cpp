@@ -21,10 +21,12 @@ class Count
            while(no1!=0)
            {
                  Digit=no1%10;
+                
                  if(Digit==4)
                  {
                        Cnt++;
                  }
+                
                  no1=no1/10;
            }
            return Cnt;
