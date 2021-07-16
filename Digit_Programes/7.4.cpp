@@ -24,11 +24,14 @@ class Count
            while(no1!=0)
            {
                  Digit=no1%10;
+                
                  if(Digit==0)
                  {
                       Digit=1;
                  }
+                
                  Mult=Mult*Digit;
+                
                  no1=no1/10;
            }
            return Mult;
