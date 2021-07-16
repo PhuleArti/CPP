@@ -22,6 +22,7 @@ class Display
           while(no1!=0)
           {
                 Digit=no1%10;
+               
                 if(Digit==0)
                 {
                      return 1;
