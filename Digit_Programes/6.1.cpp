@@ -15,6 +15,7 @@ class Display
       {
             int Digit=0;
             int Rev=0;
+            
             if(no1<0)
             {
                   no1=-no1;
