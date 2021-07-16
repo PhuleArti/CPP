@@ -16,13 +16,16 @@ class Count
            int Sum1=0;
            int Sum2=0;
            int Digit=0;
+           
            if(no1<0)
            {
                 no1=-no1;
            }
+           
            while(no1!=0)
            {
                  Digit=no1%10;
+                
                  if(Digit%2==0)
                  {
                       Sum1=Sum1+Digit;
@@ -31,6 +34,7 @@ class Count
                  {
                       Sum2=Sum2+Digit;
                  }
+                
                  no1=no1/10;
            }
            return Sum1-Sum2;
