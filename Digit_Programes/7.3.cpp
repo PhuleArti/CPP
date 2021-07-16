@@ -22,10 +22,12 @@ class Count
            while(no1!=0)
            {
                  Digit=no1%10;
+                
                  if(Digit>3&&Digit<7)
                  {
                        Cnt++;
                  }
+                
                  no1=no1/10;
            }
            return Cnt;
