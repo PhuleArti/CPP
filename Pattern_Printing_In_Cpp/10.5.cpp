@@ -1,6 +1,8 @@
 /*
 problem statement:Write a program which accept accept range from user and display all numbers in
 between that range in reverse order.
+input: 2  8
+output:8 7 6 5 4 3 2
 */
 using namespace std;
 
