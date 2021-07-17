@@ -24,7 +24,7 @@ class Display
             
             for(i=1;i<=no1;i++)
             {
-                  cout<< i * 2<<"\t";
+                cout<< i * 2<<"\t";
             }
           
       }           
