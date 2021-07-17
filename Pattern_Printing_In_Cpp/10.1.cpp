@@ -1,6 +1,8 @@
 /*
 problem statement:Write a program which accept range from user and display all numbers in between
 that range.
+input: 4
+output: 1  2   3  4
 */
 using namespace std;
 
