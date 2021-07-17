@@ -1,6 +1,8 @@
 /*
 problem statement:Write a program which accept range from user and return addition of all even
 numbers in between that range. (Range should contains positive numbers only)
+input:1  9
+output: 20
 */
 using namespace std;
 
