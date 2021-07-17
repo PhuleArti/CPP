@@ -27,7 +27,7 @@ class Display
             
             for(i=1;i<=no1;i++)        
             {
-                cout<<ch++;
+                cout<<ch++<<"\t";
             }  
       }           
 };
