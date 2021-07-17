@@ -11,6 +11,7 @@ class Display
 {
      public:
                 int no1;
+     
       public:
       void OddDisplay(int no1)
       {
