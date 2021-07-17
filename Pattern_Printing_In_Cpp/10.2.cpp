@@ -1,6 +1,8 @@
 /*
 problem statement:Write a program which accept range from user and display all even numbers in
 between that range.
+input: 2    8
+output: 2   4   6  8
 */
 using namespace std;
 
