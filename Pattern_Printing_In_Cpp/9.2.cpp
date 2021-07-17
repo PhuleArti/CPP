@@ -25,8 +25,7 @@ class Print
                cout<<i<<"\t";
           }
          
-      }           
-     
+      }             
 };
 int main()
 {
