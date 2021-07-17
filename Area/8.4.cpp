@@ -14,7 +14,9 @@ class Conversion
       double FhToCs(float Temp)
       {
           double Celcius=0.0;
+           
           Celcius=(Temp-32) * 5/9;
+           
           return Celcius;
       }           
      
