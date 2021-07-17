@@ -22,7 +22,7 @@ class Display
             }
             for(i=1;i<=no1;i++)
             {
-                  cout<<"#\t"<<i<<"\t"<<"*\t";
+                cout<<"#\t"<<i<<"\t"<<"*\t";
             }
           
       }           
