@@ -23,11 +23,11 @@ class Display
             }
             for(i=1;i<=no1;i++)
             {
-                  cout<<"*";
+                  cout<<"*\t";
             }
             for(i=1;i<=no1;i++)
             {
-                  cout<<"#";
+                  cout<<"#\t";
             }
       }           
      
