@@ -36,9 +36,9 @@ class Display
             {
                 for(j=1;j<=Columns;j++)
                 {
-                      cout<<i;
-                 }  
-                 cout<<"\n";   
+                    cout<<i;
+                }  
+                cout<<"\n";   
             }
           
       }           
