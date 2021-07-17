@@ -1,6 +1,8 @@
 /*
 problem statement:Write a program which accept range from user and return addition of all numbers
 in between that range. (Range should contains positive numbers only)
+input:2   6
+output:20 (2 + 3 + 4 + 5 + 6)
 */
 using namespace std;
 
