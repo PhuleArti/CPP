@@ -40,9 +40,9 @@ class Display
             {
                 for(j=1;j<=Columns;j++)
                 {
-                      cout<<"*"<<"\t";
-                 }  
-                 cout<<"\n";   
+                    cout<<"*"<<"\t";
+                }  
+                cout<<"\n";   
             }
           
       }           
