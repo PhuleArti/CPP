@@ -32,5 +32,6 @@ int main()
        
        Pattern obj1;
        obj1.PrintLine(value1);
+     
 }
 
