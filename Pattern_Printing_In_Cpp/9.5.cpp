@@ -36,6 +36,7 @@ int main()
        cin>>value1;   
        
        Display obj1;
+     
        obj1.DisplayMultiple(value1);
       
 }
