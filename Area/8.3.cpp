@@ -15,7 +15,9 @@ class Conversion
       float KmToMeter( float  Km)
       {
            float  Meter=0;
+           
            Meter=Km*1000; 
+           
            return Meter;      
       }              
 };
