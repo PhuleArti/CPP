@@ -38,6 +38,7 @@ int main()
        cin>>value1; 
           
        Display obj1; 
+      
        obj1.DisplayPattern(value1);
 }
 
