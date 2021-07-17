@@ -14,7 +14,9 @@ class Conversion
       double SqFeetToSqMeter(int Feet)
       {
           double SqMeter=0.0;
+           
           SqMeter=Feet*0.0929;
+           
           return SqMeter;
       }           
      
