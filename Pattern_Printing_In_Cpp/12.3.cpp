@@ -39,9 +39,9 @@ class Display
                 }  
                 cout<<"\n";   
             }
-          
-      }           
-     
+            
+      }  
+      
 };
 int main()
 {
