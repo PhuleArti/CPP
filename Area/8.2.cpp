@@ -17,7 +17,9 @@ class Area
       double AreaRectangle(float Height,float Width)
       {
           double Area=0.0;
+           
           Area=Height*Width;
+           
           return Area;          
       }           
      
